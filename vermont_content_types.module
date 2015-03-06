@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Vermont Content Types feature.
+ */
+
+include_once 'vermont_content_types.features.inc';
