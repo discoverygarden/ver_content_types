@@ -61,6 +61,7 @@ features[variable][] = menu_options_page
 features[variable][] = menu_parent_image_block
 features[variable][] = menu_parent_image_link
 features[variable][] = menu_parent_page
+features[variable][] = node_export_existing
 features[variable][] = node_options_image_block
 features[variable][] = node_options_image_link
 features[variable][] = node_options_page
